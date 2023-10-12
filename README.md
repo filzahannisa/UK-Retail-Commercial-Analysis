@@ -4,8 +4,6 @@ Hi!
 - In this portfolio, you can see the coding (Python) analysis I have done. 
 - If there is any interest in working with me, please connect with me via filzahann@gmail.com
 
-Certainly, I'd be happy to help you create a pitch for your Upwork profile that outlines the goals of your project, what you did in terms of analysis, methods, techniques, and a summary of the project's success. Here's a draft you can use as a starting point:
-
 ---
 🎯 **Project Goals:** 
 I specialize in extracting actionable insights from data, and my recent project exemplifies this. The primary goals were to enhance customer segmentation, analyze customer behaviours, and implement a state-of-the-art recommendation system. The overarching aim was to boost revenue and user satisfaction.
